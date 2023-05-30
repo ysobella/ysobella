@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Bella,</h1>
+<h1 align="center">Hi 👋, I'm Bella!</h1>
 <h3 align="center">a passionate BSCS-ST student at De La Salle University, Manila.</h3>
 
 - 📫 How to reach me **ysobella_torio@dlsu.edu.ph**
